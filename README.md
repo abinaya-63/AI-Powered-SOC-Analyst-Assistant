@@ -112,6 +112,8 @@ AI-Powered-SOC-Analyst-Assistant/
 
 ## 👨‍💻 Author
 
-Abinaya S
+**Abinaya S**
+
 Cyber Security Student | SOC Analyst Enthusiast
+
 GitHub: https://github.com/abinaya-63
